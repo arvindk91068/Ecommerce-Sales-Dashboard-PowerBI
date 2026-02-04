@@ -8,7 +8,6 @@ Built a comprehensive sales dashboard that transforms raw data into actionable b
 Details.csv - Product information (ID, Name, Category, Price)
 Orders.csv - Transaction data (Order ID, Customer ID, Date, Revenue, Region)
 
-
 ✨ Key Features
 Sales Analytics
 

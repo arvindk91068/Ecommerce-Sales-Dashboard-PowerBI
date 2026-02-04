@@ -35,8 +35,14 @@ Drill-down capabilities
 KPI cards for quick metrics
 
 🛠️ Technical Skills
+
 TechnologyUsagePower BIDashboard & visualizationPower QueryData cleaning & transformationDAXCustom calculations & measures
 Key DAX Measures:
+
 Total Revenue = SUM(Orders[Revenue])
+
 Average Order Value = DIVIDE([Total Revenue], [Total Orders])
+
 Revenue Growth % = DIVIDE([Current Month] - [Previous Month], [Previous Month])
+
+
